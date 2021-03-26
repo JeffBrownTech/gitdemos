@@ -6,4 +6,4 @@ It will have many commits and branches but not many files attached to it.
 
 This is adding Feature 1.
 
-This is adding Feature 2.
+This is adding Feature 2. Adding more to Feature 2.
